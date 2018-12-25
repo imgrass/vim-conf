@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/media/imgrass/Server/reservoir/document/working/c_c++/cnc/comm_libs/modbus/src'
+let g:netrw_dirhist_2='/media/imgrass/Server/reservoir/document/working/c_c++/cnc/ids_server/ids_cnc/src'
+let g:netrw_dirhist_3='/home/imgrass/.kde/share/apps/basket/baskets/basket9-212711'
+let g:netrw_dirhist_4='/etc/apt/sources.list.d'
+let g:netrw_dirhist_5='/home/imgrass/.vim/tmp'
+let g:netrw_dirhist_6='/home/imgrass/.vim/bundle/Vundle.vim'
